@@ -1,2 +1,1 @@
-# dll-plugin-problem
-This repo describes the problem of webpack dll plugin not resolving `index.js` files
+### `npm run build` to see the error in the console
